@@ -12,7 +12,7 @@ A ideia principal é aplicar conceitos estatísticos básicos e criar **gráfico
 
 ---
 
-## 📦 Instalação e Setup
+## Instalação e Setup
 
 1. Clone este repositório:
    ```bash
