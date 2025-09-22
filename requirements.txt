@@ -1,3 +1,9 @@
+pip>=24.0
 pandas
 matplotlib
 plotly
+ipython
+ipykernel
+jupyter
+nbformat>=4.2.0
+nbclient

@@ -18,3 +18,4 @@ A ideia principal é aplicar conceitos estatísticos básicos e criar **gráfico
    ```bash
    git clone https://github.com/pencz-ae/project-statistics_and_data_viz
    cd project-statistics_and_data_viz
+2. Execute o projeto.
