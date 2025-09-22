@@ -1,4 +1,4 @@
-# Descoberta de Dados - Supermercado Chile
+# Descoberta de Dados - Supermercado no Chile
 
 Este projeto explora um conjunto de dados de um **supermercado no Chile**, utilizando ferramentas de análise e visualização de dados em Python.  
 A ideia principal é aplicar conceitos estatísticos básicos e criar **gráficos interativos e visuais** para entender melhor os preços e promoções dos produtos.
